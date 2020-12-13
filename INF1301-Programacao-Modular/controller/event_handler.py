@@ -2,7 +2,6 @@ from model import game_rules
 from view import draw_canvas
 from tkinter import *
 from tkinter import filedialog
-
 from tkinter.filedialog import askdirectory, asksaveasfilename
 import ast
 
